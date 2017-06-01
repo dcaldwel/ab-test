@@ -1,4 +1,4 @@
 <?php
-echo "Version A";
+echo "Version A<br><br>";
 echo "Served by pod ".$_SERVER['SERVER_ADDR'];
 ?>
