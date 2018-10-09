@@ -1,7 +1,7 @@
 <?php
-echo ;
+echo "<br><br>";
 echo "+++Version A+++";
-echo ;
+echo "<br>";
 echo "Served by pod ".$_SERVER['SERVER_ADDR'];
-echo ;
+echo "<br><br>";
 ?>
